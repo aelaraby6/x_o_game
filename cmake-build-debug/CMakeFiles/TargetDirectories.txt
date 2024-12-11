@@ -1,3 +1,0 @@
-D:/c++/X-O-Game/cmake-build-debug/CMakeFiles/X_O_Game.dir
-D:/c++/X-O-Game/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/c++/X-O-Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
