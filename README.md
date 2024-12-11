@@ -1,4 +1,7 @@
-# X-O Game (Tic-Tac-Toe) 
+# Tic-Tac-Toe Game  
+
+![1](https://github.com/user-attachments/assets/cef368e5-60e6-41e3-a803-222be0eb906b)
+
 
 ## Overview
 This project is a simple console-based **Tic-Tac-Toe** (X-O) game implemented in C++. It allows two players to take turns and try to get three of their marks ('x' or 'o') in a row, either horizontally, vertically, or diagonally. The game will notify the players when a winner is found or if the game ends in a draw.
@@ -44,4 +47,6 @@ This project is a simple console-based **Tic-Tac-Toe** (X-O) game implemented in
 - Checks for any winning condition: three marks in a row, column, or diagonal.
 - If all positions are filled without a winner, the function returns 'y' for a draw.
 - Returns 'x' or 'o' if either player wins, otherwise returns 'c' (continue playing).
+  ![2](https://github.com/user-attachments/assets/3ddcf0a6-2566-4d7f-8148-1cbbb2c26d02)
+
 
