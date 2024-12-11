@@ -47,6 +47,7 @@ This project is a simple console-based **Tic-Tac-Toe** (X-O) game implemented in
 - Checks for any winning condition: three marks in a row, column, or diagonal.
 - If all positions are filled without a winner, the function returns 'y' for a draw.
 - Returns 'x' or 'o' if either player wins, otherwise returns 'c' (continue playing).
+  
   ![2](https://github.com/user-attachments/assets/3ddcf0a6-2566-4d7f-8148-1cbbb2c26d02)
 
 
